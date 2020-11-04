@@ -1,2 +1,2 @@
 # Emotion detection from textual data using NLP feature extraction techniques and ML classifiers
- this model was prepared for my undergrad thesis.
+ This model was prepared for my undergrad thesis. Firstly, we gathered dataset and then sorted it according to certain categories. Then we applied NLTK, textblob for text pre-processing and Count Vectorizer, TF-IDF Vectorizer for feature extraction. Finally used 4 ML classifiers to train and test our dataset.
